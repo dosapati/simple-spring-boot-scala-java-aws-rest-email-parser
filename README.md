@@ -1,4 +1,4 @@
-# simple-spring-scala-java-rest-email-parser
+# simple-spring-boot-scala-java-aws-rest-email-parser
 
 Sample project which has functionality of 
 
