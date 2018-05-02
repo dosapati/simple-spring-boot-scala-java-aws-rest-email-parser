@@ -24,3 +24,13 @@ Uses Gradle Build
 
 ```
 
+ > Sample service links to test 
+```
+##Java REST Service
+http://localhost:5000/greeting
+
+##Scala REST Service
+http://localhost:5000/ping
+
+```
+
