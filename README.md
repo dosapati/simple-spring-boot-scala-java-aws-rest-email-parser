@@ -1,0 +1,1 @@
+# simple-spring-scala-java-rest-email-parser
