@@ -9,3 +9,18 @@ Sample project which has functionality of
 * AWS S3 Reader
 * Email Parser
 
+Uses Gradle Build
+
+ > Steps to build 
+```
+./gradlew clean build -x test
+
+```
+
+
+ > Steps to run 
+```
+./gradlew bootRun
+
+```
+
